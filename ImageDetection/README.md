@@ -37,7 +37,7 @@ python detect_faces.py --image img2.jpg --prototxt deploy.prototxt.txt --model r
 
 ### Input
 
-<img src="/Users/dumitrescucristian/Desktop/ObjectDetection/OpenCV/ImageDetection/img1.jpg" width="400" height="300">
+<img src="https://github.com/danield95/OpenCV-FaceDetection/blob/main/ImageDetection/img1.jpg" width="400" height="300">
 
 <img src="/Users/dumitrescucristian/Desktop/ObjectDetection/OpenCV/ImageDetection/img2.jpg" width="400" height="300">
 
