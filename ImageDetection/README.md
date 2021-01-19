@@ -46,4 +46,4 @@ python detect_faces.py --image img2.jpg --prototxt deploy.prototxt.txt --model r
 
 <img src="https://github.com/danield95/OpenCV-FaceDetection/blob/main/ImageDetection/outputs/img1.png" width="400" height="300">
 
-<https://github.com/danield95/OpenCV-FaceDetection/blob/main/ImageDetection/outputs/img2.png" width="400" height="300">
+<img src="https://github.com/danield95/OpenCV-FaceDetection/blob/main/ImageDetection/outputs/img2.png" width="400" height="300">
