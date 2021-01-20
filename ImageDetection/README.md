@@ -2,9 +2,6 @@
 Fast and accurate face detection with OpenCV using a pre-trained deep learning face detector model shipped with the library.
 
 
-## Motivation
-Learning and improving my skills in programming/object detection.
-
 ## Files
 1. ```detect_faces.py```: script containing the code for face detection
 2. ```img1.jpg```: input image
