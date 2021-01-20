@@ -4,6 +4,10 @@ Fast and accurate face detection from **images** and **webcam feed** with OpenCV
 
 The deep learning model used is the the **Single Shot Detector (SSD)** framework with ResNet as the base network.
 
+## Motivation
+
+Learning and improving my skills in programming/object detection.
+
 ### Content
 
 ```
