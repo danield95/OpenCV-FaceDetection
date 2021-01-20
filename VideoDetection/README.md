@@ -33,3 +33,11 @@ $ pip3 install opencv-python
 python detect_faces_video.py --prototxt deploy.prototxt.txt --model res10_300x300_ssd_iter_140000.caffemodel
 
 ```
+
+## Input
+
+Webcam video stream
+
+## Output
+
+
