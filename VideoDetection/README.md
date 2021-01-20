@@ -27,7 +27,7 @@ $ pip3 install argparse
 $ pip3 install opencv-python
 ```
 
-2. Run the script using the three required arguments: ```--image```: path to input image, ```--prototxt```: path to the Caffe prototxt file, ```--model```: path to the pretrained Caffe model.
+2. Run the script using the three required arguments: ```--prototxt```: path to the Caffe prototxt file, ```--model```: path to the pretrained Caffe model.
 
 ```
 python detect_faces_video.py --prototxt deploy.prototxt.txt --model res10_300x300_ssd_iter_140000.caffemodel
