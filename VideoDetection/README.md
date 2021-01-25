@@ -40,4 +40,6 @@ Webcam video stream
 
 ## Output
 
+Webcam video stream with bounding box and probability of the detection.
+
 
